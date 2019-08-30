@@ -4,7 +4,7 @@
 #
 Name     : mvn-sqljet
 Version  : 1.1.10
-Release  : 1
+Release  : 2
 URL      : https://repo1.maven.org/maven2/org/tmatesoft/sqljet/sqljet/1.1.10/sqljet-1.1.10.jar
 Source0  : https://repo1.maven.org/maven2/org/tmatesoft/sqljet/sqljet/1.1.10/sqljet-1.1.10.jar
 Source1  : https://repo1.maven.org/maven2/org/tmatesoft/sqljet/sqljet/1.1.10/sqljet-1.1.10.pom
